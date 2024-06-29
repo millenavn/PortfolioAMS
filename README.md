@@ -1,2 +1,2 @@
 # PortifolioAMS
-Esse projeto contém as evidênciaas de treinamentos adquiridos por meio de cursos e palestras fornecidos pela IBM.
+Esse projeto contém as evidências de treinamentos adquiridos por meio de cursos e palestras fornecidos pela IBM.
